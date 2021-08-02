@@ -17,10 +17,10 @@ A Caesar Cipher program implemented using GUI
 ## Interface Images
 
 * #### Initial screen
-<img src="Caesar.PNG">
+<img src="images/Caesar.PNG">
 
 * #### Encrypted message
-<img src="Caesar2.PNG">
+<img src="images/Caesar2.PNG">
 
 * #### Decrypted message
-<img src="Caesar3.PNG">
+<img src="images/Caesar3.PNG">
