@@ -1,4 +1,4 @@
-from data_console import alphabet
+from data import alphabet
 
 
 class Cipher:
