@@ -24,3 +24,16 @@ A Caesar Cipher program implemented using GUI
 
 * #### Decrypted message
 <img src="images/Caesar3.PNG">
+
+
+## How to use
+
+* Run the application using the Installation section
+* Enter the text as shown in the images 
+* The Spin box is being set to 10000 as max if you move using mouse button - you can also enter a number manually there
+* Remember the spin to decrypt
+
+### Improvements planned
+
+* Capitalizing the first letter after a sentence starts
+* Spin to be added to numerical numbers too 
