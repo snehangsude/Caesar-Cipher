@@ -1,4 +1,4 @@
-# Caeser-Cipher
+# Caesar-Cipher
 A Caesar Cipher program implemented using GUI
 
 
