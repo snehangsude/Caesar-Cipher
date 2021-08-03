@@ -12,7 +12,7 @@ A Caesar Cipher program implemented using GUI
 ## Installation on Linux and Unix like OS:
 * `git clone https://github.com/snehangsude/Caesar-Cipher.git`
 * `cd Caesar-Cipher`
-* `python main.py`
+* `python3 main.py`
 
 ## Interface Images
 
