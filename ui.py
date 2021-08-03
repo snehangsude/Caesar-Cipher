@@ -19,7 +19,6 @@ class CipherInterface:
 
         # Helps reset the spinbox to zero
         self.var = IntVar(self.window)
-        # self.var.set(0)
 
         # Initializing the note on top
         self.note = Label(text="Type the text you'd like to convert", font=("Bookman Old Style", 15, "bold underline"),
