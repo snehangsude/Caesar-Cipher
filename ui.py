@@ -14,7 +14,7 @@ class CipherInterface:
 
         self.cipher = Cipher()
         self.window = Tk()
-        self.window.title('Caeser Cipher')
+        self.window.title('Caesar Cipher')
         self.window.config(bg=THEME, padx=50, pady=50)
 
         # Helps reset the spinbox to zero
